@@ -1,0 +1,10 @@
+// 定义混合
+//颜色宽,颜色,箭头方向可调节
+@mixin arrow($w:10px,$c:#000,$dir:right){
+	//兼容行内块
+	font-size: 0;
+	width: 0;
+	border:$w solid transparent;
+	//设置特殊边
+	border-#{$dir}-color:$c;
+}
