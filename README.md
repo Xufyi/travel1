@@ -4,7 +4,7 @@ https://xufyi.github.io/travel1/dist/#/
 请按F12,用移动端视口浏览
 
 
-项目演示:
+项目演示:（演示图片可能加载过慢，直接点击在线预览吧！）
 -----
 <div align=center>
    <img src="https://github.com/Xufyi/travel/blob/master/travel.gif" width="259" height="470">  
